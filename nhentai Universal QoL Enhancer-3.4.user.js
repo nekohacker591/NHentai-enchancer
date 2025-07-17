@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         nhentai Universal QoL Enhancer (Fixed Again)
+// @name         nhentai Universal QoL Enhancer (Fixed)
 // @namespace    http://tampermonkey.net/
 // @version      3.4.4
 // @description  Universal QoL: Unblurs, clicks, proxy bypass, DYNAMIC fit, preloads, no text select, INSTANT SPA CLICKS (retains scroll), keyboard navigation on nhentai.net & nhentai-xxx.
-// @author       nekohacker591 (with fixes by your AI buddy)
+// @author       nekohacker591
 // @match        *://nhentai.net/g/*/*
 // @match        *://nhentai-xxx.pornproxy.app/g/*/*
 // @match        *://nhentai.net/*
